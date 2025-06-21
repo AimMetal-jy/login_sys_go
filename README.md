@@ -51,7 +51,7 @@ login_sys_go/
 - 密码: 123456
 - 数据库名: login_sys
 
-### 用户表结构
+### 用户表结构，命令创建
 ```sql
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY COMMENT '用户ID，主键',
